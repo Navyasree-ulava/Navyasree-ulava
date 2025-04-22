@@ -37,7 +37,7 @@
 ### 📫 Reach Me On
 
 - 📧 Gmail: navya12345u@gmail.com
-- 🌐 [LinkedIn](https://linkedin.com/in/navyasree)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/navya-sree-ulava/)
 
 ---
 
