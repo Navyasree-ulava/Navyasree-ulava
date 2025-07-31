@@ -3,7 +3,7 @@
 
 ### 👩‍💻 About Me
 
-- 🌱 I’m currently learning **Flask, React, and Blockchain Fundamentals**
+- 🌱 I’m currently focusing on backend frameworks
 - 📚 BTech CSE @ **SRM AP University**
 - 👯 I’m looking to collaborate on **Full-Stack Projects & Open Source**
 - ⚡ Fun fact: I love clean code and coffee ☕💻
